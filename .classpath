@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/commons-compress-1.4.jar"/>
+	<classpathentry kind="lib" path="lib/jug-asl-2.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/truezip-driver-file-7.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/truezip-driver-zip-7.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/truezip-file-7.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/truezip-kernel-7.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/truezip-swing-7.5.5.jar"/>
+	<classpathentry kind="lib" path="lib/xz-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/main.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
